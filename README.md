@@ -1,5 +1,5 @@
-<h1>🛒 Madhav eCommerce Sales Dashboard</h1> </br>
-<p>This project presents an interactive Power BI dashboard analyzing sales data from an eCommerce platform. It helps visualize key metrics including revenue, quantity sold, profit, average order value (AOV), and performance trends across months, categories, states, and customers.</p> </br>
+<h1> 🛒 Madhav eCommerce Sales Dashboard</h1> </br>
+<p> This project presents an interactive Power BI dashboard analyzing sales data from an eCommerce platform. It helps visualize key metrics including revenue, quantity sold, profit, average order value (AOV), and performance trends across months, categories, states, and customers.</p> </br>
 
 <h2>  📊 Dashboard Features</h2> /br>
 <h4> 🔹 Key KPIs: <h4> </br>
